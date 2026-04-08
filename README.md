@@ -35,6 +35,36 @@
 </tr>
 </table>
 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Actualmente...
+
+
+<table>
+<tr>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220">
+
+</td>
+
+<td width="60%">
+
+<p>
+📚 Aprendiendo nuevas tecnologías <br>
+💡 Trabajando en proyectos personales <br>
+🎯 Mejorando mis habilidades como desarrolladora
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+</tr>
+</table>
+
 
 <h2>🛠️ Tecnologías</h2>
 
